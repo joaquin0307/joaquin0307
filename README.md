@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<--
-**joaquin0307/joaquin0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### 🚀 About Me
 
 - 🔭 I’m currently taking **Programación II** and expanding my technical stack.
